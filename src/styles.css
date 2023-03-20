@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.div {
+  border: 2px solid gray;
+  padding: 40px;
+  margin: 4px;
+}
